@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="dashboard-banner.png" alt="Healthcare Analytics Dashboard" width="100%">
+</p>
 # --- Healthcare Analytics Dashboard using Power BI ---
 
 ## -- Project Overview --
